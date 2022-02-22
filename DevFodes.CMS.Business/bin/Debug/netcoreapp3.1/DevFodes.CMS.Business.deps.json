@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DevFodes.CMS.Business/1.0.0": {
+        "runtime": {
+          "DevFodes.CMS.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevFodes.CMS.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMiQvTY3gQOFf740VxuKGcDTiu8YQ4CUQfKbMq/+SnYx2Wg50iVyx7vHKItY2D5oyage14qbFUUN8HuGVyOQBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LE BASMATI\\source\\repos\\DevFodes\\DevFodes.CMS.Infrastructure\\DevFodes.CMS.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\LE BASMATI\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

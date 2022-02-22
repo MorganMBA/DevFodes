@@ -1,0 +1,13 @@
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\bin\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.deps.json
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\bin\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.dll
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\bin\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.pdb
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\bin\Debug\netcoreapp3.1\DevFodes.CMS.Business.dll
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\bin\Debug\netcoreapp3.1\DevFodes.CMS.Business.pdb
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.AssemblyInfo.cs
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.csproj.CopyComplete
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.dll
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Infrastructure\obj\Debug\netcoreapp3.1\DevFodes.CMS.Infrastructure.pdb

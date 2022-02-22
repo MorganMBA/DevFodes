@@ -1,0 +1,10 @@
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\bin\Debug\netcoreapp3.1\DevFodes.CMS.Business.deps.json
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\bin\Debug\netcoreapp3.1\DevFodes.CMS.Business.dll
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\bin\Debug\netcoreapp3.1\DevFodes.CMS.Business.pdb
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.csproj.AssemblyReference.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.AssemblyInfoInputs.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.AssemblyInfo.cs
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.dll
+C:\Users\LE BASMATI\source\repos\DevFodes\DevFodes.CMS.Business\obj\Debug\netcoreapp3.1\DevFodes.CMS.Business.pdb
